@@ -1,0 +1,677 @@
+﻿Here’s a fully structured NEWS layout for Dean (born November 1, 1967) integrating numerology, lunar astrology, Western zodiac, and Mayan sociocultural readings, using your requested references and the AMA in-house algorithms. I’ll break it down by quadrant (North, East, West, South) and show the calculations and logic so Jarvis can follow it consistently.
+________________
+
+
+Subject: Dean – Born November 1, 1967
+Genesis Code (MM-DD-YYYY reduced)
+* Month: 11 → 2
+* Day: 1 → 1
+* Year: 1967 → 1+9+6+7 = 23 → 2+3 = 5
+* Genesis Code = 2 –1– 5
+Core Life Numbers (AMA protocol)
+* Psyche (Moon) = Day = 1
+* Attitude (Sun) = Month + Day = 2 + 1 = 3
+* Life Path = Month + Day + Year = 2 + 1 + 5 = 8
+MGKID / CSKID / DSKID (Decoz.com references)
+* MGKID: D8
+* CSKID: D138
+* DSKID: D138-BEN
+________________
+
+
+North Quadrant – Numerology & Birth Keys
+Objective: Present the core numerology identity of Dean.
+* MGKID (Mantra Genesis Key Identifier): D8 → Cornerstone letter “D” with Life Path 8 (self-empowerment focus).
+* CSKID (Cornerstone Key Identifier): D138 → Combines Cornerstone, Psyche (1), Attitude (3), Life Path (8).
+* DSKID (Destiny Key Identifier): D138-BEN → Adds Mayan glyph “BEN” to CSKID for societal alignment.
+* Numerology Reading:
+   * Psyche 1 → independent, initiator energy
+   * Attitude 3 → expressive, communicative
+   * Life Path 8 → pragmatic, self-empowerment, leadership
+* Interpretation: The North quadrant anchors Dean’s personal blueprint and life mission, highlighting his capacity to take initiative, articulate his ideas, and achieve tangible results.
+________________
+
+
+East Quadrant – Lunar Calendar & Animal Totem
+Objective: Connect Dean to the Lunar element and animal spirit.
+* Lunar Year (Master Rao reference): 1967 → Fire Goat → Fire aura (element), Goat animal (year)
+* Fire Aura: Drives action, courage, dynamism; represents outward energy and passion.
+* Goat Spirit Totem: Creative, nurturing, adaptive, inclined to seek harmony.
+* Combined: Fire Goat → intensity in creative pursuits, leadership tempered with empathy and social awareness.
+* Calculation Using AMA Logic:
+   * Year code: 1967 → reduced 1+9+6+7 = 23 → 2+3 = 5 (resonates with genesis code  in North)
+   * Aura: Fire → represents active transformative energy
+   * Animal Totem: Goat → social adaptability and intelligence
+* Interpretation: East quadrant reflects Dean’s outward engagement with the world and how his life energy manifests in community and career.
+________________
+
+
+West Quadrant – Western Zodiac & Synchronicity
+Objective: Analyze Dean’s zodiac influence and archetype alignment.
+* Western Zodiac: Scorpio (Sun Sign), Scorpio Goat (East/West crossover in Lunar influence)
+* Primal Astrology: Panda (Primal animal for Scorpio-Goat alignment)
+* Master Rao & AstrologizeMe References:
+   * Scorpio → introspective, transformational, emotionally deep
+   * Scorpio Goat / Panda → grounded wisdom, patience, endurance
+* Interpretation: West quadrant highlights internal strengths, strategic thinking, resilience, and capacity for transformative action. This quadrant balances East’s outward Fire energy with deep Scorpio insight.
+________________
+
+
+South Quadrant – Mayan Societal Role & Trecena
+Objective: Map Dean’s societal contribution and archetypal influence using Mayan glyphs and tones.
+* DSKID: D138-BEN (1)
+* Trecena: 1 → represents initiation, leadership within the 13-day cycle (trecena cycle)
+* Mayan Glyph Reading (Mayan Majix & Horoscope.com):
+   * BEN → societal navigator, strategic planner, connector of people
+   * Tone 1 → proactive, initiating, pioneering role in community
+* Interpretation: South quadrant reflects Dean’s social function: to lead, guide, and establish structures within the community, bringing his numerology and lunar/solar archetypes into actionable societal impact.
+* Life Period code : 2-1-5
+* Life Pinnacle code : 3697
+* Life Challenge code: 1433
+* Life Compass Via 7 Self-wisdom 
+ The above Life codes are found explained below and uses Decoz for all except Life compass via the Life compass or destiny direction code was developed by astro numerologist Michael star ( Toronto) 
+________________
+
+
+AMA NEWS Quadrant Layout Summary for Jarvis
+Quadrant
+	Domain
+	Key Reference
+	Core Insight
+	North
+	Numerology & Birth Keys
+	Decoz.com
+	MGKID D8, CSKID D138, DSKID D138-BEN. Self-empowerment (8), independence (1), expression (3). Anchor's personal blueprint.
+	East
+	Lunar Calendar & Totem
+	Master Rao
+	Fire Goat 1967. Aura: Fire (energy, courage), Totem: Goat (adaptive, creative). External engagement.
+	West
+	Western Zodiac
+	Master Rao, Primal Astrology, AstrologizeMe
+	Scorpio / Scorpio Goat / Panda. Internal depth, strategy, emotional intelligence.
+	South
+	Mayan Societal Role & Trecena
+	Mayan Majix
+	DSKID D138-BEN (1), Trecena 1. Societal leader, initiator, community navigator.
+	________________
+
+
+Operational Notes for Jarvis (Manual Setup):
+1. Pull North quadrant from Decoz.com numerology, derive MGKID, CSKID, DSKID. Store Genesis code logic internally.
+2. Pull East quadrant from Master Rao Lunar astrology; compute lunar element and animal, align with year aura and totem.
+3. Pull West quadrant from Western zodiac data (Master Rao + Primal Astrology + AstrologizeMe); map sun sign, corresponding animal archetype, and interpret personality resonance.
+4. Pull South quadrant from Mayan Majix and Mayan Horoscope; compute societal glyph and trecena tone, link to DSKID.
+5. Store quadrant interrelations: North anchors self, East activates external aura, West stabilizes internal depth, South expresses social role.
+6. NEWS output should combine all quadrants visually and numerically, with DSKID appearing in North and South for continuity.
+________________
+
+
+
+
+________________
+
+
+Life Pinnacles (Decoz / Genesis Code Only)
+Pinnacle
+	Formula (Genesis Code)
+	Value
+	Age Range
+	Phase Name
+	Interpretation
+	1
+	Month + Day = 2 + 1
+	3
+	0–28
+	Childhood
+	Development of self-expression, creativity, initiative, early-life learning
+	2
+	Day + Year = 1 + 5
+	6
+	28–37
+	Adulthood
+	Responsibility, relationships, service, building structure
+	3
+	First + Second Pinnacle = 3 + 6
+	9
+	37–46
+	Masterhood
+	Maturity, humanitarian focus, skill consolidation, wisdom
+	4
+	Month + Year = 2 + 5
+	7
+	46+
+	Elderhood
+	Reflection, self-wisdom, teaching, guiding others
+	________________
+
+
+Life Challenges (Corrected Using Genesis Code)
+Challenge
+	Formula
+	Value
+	Interpretation
+	1
+	Month – Day
+	2 – 1 = 1
+	Independence, initiative, early-life obstacle
+	2
+	Day – Year
+	1 – 5 = –4 → 4
+	Discipline, structured problem-solving, responsibilities
+	3
+	Challenge 1 – Challenge 2
+	1 – 4 = –3 → 3
+	Communication, creative adaptation, resolving obstacles
+	4
+	Month – Year
+	2 – 5 = –3 → 3
+	Reinforces Challenge 3: self-expression and adaptability
+	________________
+
+
+Life Compass – VIA
+* VIA 7: Self-Wisdom → inner reflection and insight, guiding Masterhood and Elderhood phases
+________________
+
+
+Operational Notes for Jarvis
+1. North quadrant: Pull numerology (MGKID, CSKID, DSKID) from Genesis code.
+2. East quadrant: Pull Lunar element and animal totem from Genesis year code.
+3. West quadrant: Map Zodiac sun sign and primal archetype using Genesis code mapping.
+4. South quadrant: Pull Mayan glyph and Trecena tone, linked to DSKID.
+5. Life Period : Seen as 3 major stages or Floors with pinnacles as stairs. Calculated as the existing Genesis code.
+6. Life Pinnacles: Calculate Pinnacle ( rungs of the stairs of Period)  using formulas from Genesis code; label phases: Childhood, Adulthood, Masterhood, Elderhood.
+7. Life Challenges: Use corrected formulas for Challenges 1–4 from Genesis code.
+8. VIA: Assign life direction and reflection purpose.
+9. NEWS Output: Quadrants should integrate visually and numerically with DSKID continuity. Include Pinnacles and Challenges with age ranges.
+________________
+
+
+
+
+
+
+
+
+LIFE COMPASS VIA 
+The Zodiac House number follows the sign order Aries through Pisces, indexed one to twelve. The mapping is: Aries 1 “ I am”, Taurus 2 “ I possess”, Gemini 3 “I express”, Cancer 4 “ House of Details-nurture, Leo 5 House of Pleasure, Virgo 6 House of Service, Libra 7, Scorpio 8, Sagittarius 9, Capricorn 10, Aquarius 11, Pisces 12. Determine the sign from the Gregorian birth month and day, then assign the corresponding number.
+The Life Path number follows the triangle method. Reduce each calendar component of the birthdate separately, then sum and reduce. In order: reduce Day to a single digit; reduce Month to a single digit; reduce Year to a single digit; sum the three reduced values; reduce the sum to a single digit. This yields Life Path 1–9.
+Compute VIA as the single-digit reduction of House + Life Path. If House + Life Path is ten or greater, sum its digits until one digit remains. All reductions in this section are single-digit reductions.
+Pseudocode for implementation:
+1. house ← western zodiac sign_to_house(month, day)
+
+2. day_r ← reduce(day) = Psyche
+
+3. month_r ← reduce(month)
+4. Attitude = Psyche + reduce (month) reduced to root. 
+
+5. year_r ← reduce(year)
+
+6. life_path ← reduce(day_r + month_r + year_r)  = root sum of
+
+7. via ← reduce(house + life_path)
+
+The nine VIA modes
+VIA 1 equals Self-Development. Seen as entrepreneurs
+VIA 2 equals Self-Surrender. Seen as empathetic
+VIA 3 equals Self-Expression. Seen as artistic 
+VIA 4 equals Self-Discipline. Seen as engineers
+VIA 5 equals Self-Emancipation. Seen as freedom fighters
+VIA 6 equals Self-Harmony. Seen as host and guardians
+VIA 7 equals Self-Wisdom. Seen as investigators
+VIA 8 equals Self-Empower.Seen as opportunists
+VIA 9 equals Selflessness. Seen as responsible entrepreneurs
+Each mode functions as the operational style for completing the Life Path. Mode selection is numeric and rule-based. The theme string above is the only authorized label for that mode in AMA outputs.
+Worked validations
+Dean (Master Paul): 1 November 1967. Western sign equals Scorpio, so House equals 8. Triangle reductions: Day 1 → 1; Month 11 → 1+1 → 2; Year 1967 → 1+9+6+7 → 23 → 2+3 → 5. Life Path equals reduce(1+2+5) → reduce(8) → 8. VIA equals reduce(8+8) → reduce(16) → 1+6 → 7. VIA equals 7 Self-Wisdom.
+Grace (Gina Lee): 27 December 1968. Western sign equals Capricorn, so House equals 10. Triangle reductions: Day 27 → 2+7 → 9; Month 12 → 1+2 → 3; Year 1968 → 1+9+6+8 → 24 → 2+4 → 6. Life Path equals reduce(9+3+6) → reduce(18) → 1+8 → 9. VIA equals reduce(10+9) → reduce(19) → 1+9 → 1. VIA equals 1 Self-Development.
+
+
+
+
+
+
+
+
+
+
+
+
+Here’s the fully integrated NEWS manual for Jarvis with Genesis code only, corrected Life Challenges, Pinnacles with proper phase names, VIA, and quadrant mapping. This is ready for internal use.
+________________
+
+
+ATTITUDE 
+
+
+Welcome to Habits and Behaviour
+
+
+I am Paul, architect and designer  of AMA Ask morpheus alliance. A virtual place where “ We reconnect” minds to the cosmic truths as seen through the eyes of Morpheus the messenger and teacher..
+
+
+Morpheus is an avatar presenter written as your guide to reveal the Sun vibration based on the Genesis of birth day DD. and birth month MM  of the Western Gregorian calendar birth.  
+
+
+Your Attitude number reflects how you respond to changes and events that come your way as a result of your cycles. It is also called your Sun Number and it is based on your date of birth.
+
+
+The algorithm for Attitude is DD + MM reduced to root. Once this number is attained look at the 9 Halls of Attitude for your reading by Morpheus reader of realms. 
+
+
+Attitude 1 : Self-motivated-Director
+
+
+“I enter the room like I own the place.“
+
+
+According to Pythagoras children born with the Sun number one are considered highly assertive, Confident, Leadership, Driven, Stand-offish, ambitious and strong intellectual personality types. Survivors of the fittest, they are going to remain highly determined about the goals and there is also the same level of enthusiasm present in their nature. 
+________________
+
+
+Attitude 1 – The Self-Motivated Director
+________________
+
+
+"You enter the room like you own the place."
+Welcome, Director. You hold Attitude Number 1—a number of vision, strength, and leadership. This path calls to the bold, those who take initiative and carve their way through life with clarity and conviction.
+Your energy introduces you before you speak. You lead with presence, intensity, and direction. You excel in roles where autonomy and responsibility meet, often rising to the top by sheer focus and determination. Like Tom Cruise, your confidence commands the spotlight. Like Arnold Schwarzenegger, your ambition knows no boundaries. And like Dr. Phil, your words shape outcomes and set structure in motion.
+You move with intention. Tasks become achievements. Ideas become action. In your world, waiting gives way to doing, and hesitation dissolves in forward momentum.
+You value independence. You prefer working at your own pace, on your own terms. Your focus may appear intense to others, yet it reflects your deep connection to excellence. Where some seek direction, you create it.
+Still, every strength carries a shadow. You react quickly, sometimes missing the early signals of change or imbalance. The ability to sense what lies beneath the surface—before it breaks through—will sharpen your edge and preserve your energy.
+Though self-reliant, your spirit responds to recognition. Acknowledgment fuels your confidence and unlocks higher potential. When your work is seen, you rise even higher.
+At times, your drive can lead to extremes—working long hours, pushing past limits. In those moments, it serves you well to pause, recalibrate, and draw from supportive relationships. Attitude Numbers 2, 5, and 7 align well with your rhythm, offering emotional depth, adaptability, and fresh insight.
+You were born to direct—not just projects, but outcomes, narratives, and the very shape of your own journey. Where you walk, others follow. Where you focus, results emerge.
+Lead well, Director. Your presence was always meant to shift the course of things.
+— Morpheus, Reader of Realms
+
+
+Attitude 2 : Observer-Mediator-Daydreamer
+
+
+“ Every step you make.  I am watching You.“
+
+
+The Observer native with vibration number 2 as the sun number is going to appear passive and nurturing in nature. Empathic values are on the top in the native with the number 2 and they are often seen giving complete value to the feelings of others. Kind, intuitive, diplomatic, collaborative.
+
+
+Deep in their heart they have great sympathy for others and it comes as their top priority. You can also find them quite emotional in life and they are going to sacrifice many things just to provide enough care and value to others. It is quite possible that someone may take advantage of their caring and loving behavior and it makes them quite vulnerable. Native people tend to trust others which can later become the reason for problems. People can take advantage of a trusting attitude.
+
+
+The native is always ready to help others even in the moonlight. Due to this particular reason, friends and other individuals prefer to give him or her call during any need. This is also the potential reason that he is going to get huge respect from others.
+
+
+With time the natives also become conscious about the logical and analytical aspects of life. He will change the approach and make it more logistical with the advent of time.
+
+
+However, this approach is going to be limited to the personal aspects of life only. Whenever there is any conflict in life, they are going to listen to their mind. However, when it comes to focusing on their professional life they are going to have long-term goals.
+
+
+The Observers approach changes with cautious deliberation, assessing potential outcomes meticulously before proceeding. Preferring diplomacy over direct confrontation, they navigate situations with finesse, drawing support from others and sharing both victories and challenges.
+
+
+Intuitive by nature, those aligned with the second attitude number often foresee changes before they manifest, leveraging their understanding of human nature and keen intellect to their advantage. However, this intuition may sometimes lead them into manipulating situations, resulting in unforeseen repercussions.
+
+
+With a sharp sense of timing, they adapt swiftly to inevitable circumstances, though they may occasionally yield without a significant struggle. Nevertheless, their resilience ensures quick recovery from setbacks, displaying empathy towards others while guarding against selfish tendencies.
+
+
+In matters of romance, observers are sensitive and intuitive partners, valuing sincerity and authenticity. While they shy away from conflict, they exhibit unwavering resolve when needed, prioritizing their partner's happiness and fulfillment.
+
+
+Inherently sensitive, they exude an amiable and agreeable demeanor, easily swayed in various scenarios. Intrigued by the mystical and supernatural, they possess a captivating allure, guided by intuition and a quest for deeper understanding.
+
+
+Some observers experience vivo dreams and claim mystical abilities, such as clairvoyance, using their keen perception to analyze situations with remarkable accuracy. Experiencing phenomena like déjà vu and manifesting destiny are common for them, highlighting their innate mysticism and instinctual wisdom.
+
+
+In facing life's peculiar challenges, Observers  rise to the occasion, navigating with a blend of intuition and mystique, emerging triumphant amidst life's enigmatic trials.
+
+
+Those guided by Attitude number 2 approach changes with cautious deliberation, assessing potential outcomes meticulously before proceeding. Preferring diplomacy over direct confrontation, they navigate situations with finesse, drawing support from others and sharing both victories and challenges.
+
+
+Intuitive by nature, those aligned with the second attitude number often foresee changes before they manifest, leveraging their understanding of human nature and keen intellect to their advantage. However, this intuition may sometimes lead them into manipulating situations, resulting in unforeseen repercussions.
+
+
+With a sharp sense of timing, they adapt swiftly to inevitable circumstances, though they may occasionally yield without a significant struggle. Nevertheless, their resilience ensures quick recovery from setbacks, displaying empathy towards others while guarding against selfish tendencies.
+
+
+In matters of romance, individuals with Attitude number 2 are sensitive and intuitive partners, valuing sincerity and authenticity. While they shy away from conflict, they exhibit unwavering resolve when needed, prioritizing their partner's happiness and fulfillment.
+
+
+Inherently sensitive, they exude an amiable and agreeable demeanor, easily swayed in various scenarios. Intrigued by the mystical and supernatural, they possess a captivating allure, guided by intuition and a quest for deeper understanding.
+
+
+Some with Attitude number 2 claim mystical abilities, such as clairvoyance, using their keen perception to analyze situations with remarkable accuracy. Experiencing phenomena like déjà vu and manifesting destiny are common for them, highlighting their innate mysticism and instinctual wisdom.
+
+
+In facing life's peculiar challenges, individuals with Attitude number 2 rise to the occasion, navigating with a blend of intuition and mystique, emerging triumphant amidst life's enigmatic trials.
+
+
+They will also have a strong vision in life for the future. They decide with great care. They are going to first analyze the impact and effect of the decision on the future and based on the results they are going to make their decision. Natives are compatible with individuals who come with the numbers 1, 5, 8, and 9 as their sun number. Celebrity Observer-Mediator: Martha Stewart, Donald Trump, Keanu Reeves. 
+
+
+
+
+
+
+Attitude 3 : Joker-Comedian-Entertainer
+
+
+“ If I didn't have a sense humor I would’ve committed suicide long ago “ 
+
+
+Mahatma Gandhi 
+
+
+The natives who belong to sun number 3 are considered very cheerful individuals who have a very jolly nature. Indeed, you can find them excellent cheerleaders who will take away all the sorrow and make you feel light and happy. Cheerful. Versatile. Energetic. Expressive. Playful.
+Creative. Influential.
+
+
+They are also good at motivation. Indeed, they are going to put all their effort into making their near and dear ones happy in every situation. However, you can also find the witty nature of the natives and they are going to be very helpful in every situation. They also come with excellent communication skills and the ability to answer you quickly for any sort of question that you have in your mind.
+
+
+Staying organized is always their top priority because it makes them feel comfortable. Therefore, you will find them well organized and they love to keep everything in their designated place in the office and home. You can easily be recognized as a highly organized person.
+
+
+However, when you make something distort their place, it makes them irritated very quickly. So always remember to keep their alignment perfect when you are around them.
+
+
+Being creative in life is the next virtue that makes them very special. They are always full of creativity for different perspectives on everything. Indeed, you can find them gaining success when they utilize their creativity in their work. Most of the time, they are going to gain excellent success in life.
+
+
+People with Attitude number 3 epitomize innovation and creativity, effortlessly uncovering unconventional solutions. Their infectious optimism spreads like wildfire, yet beneath their cheerful exterior lies a hint of childlike whimsy that may lead them to evade responsibilities.
+
+
+Skimming the surface with their sharp wit and humor, those aligned with Attitude number 3 prefer to maintain a carefree demeanor, avoiding deep emotional entanglements. Nevertheless, when confronted with significant challenges, they astonish themselves and others with their unwavering perseverance, bravery, and resolve.
+
+
+Creativity is their hallmark, empowering them to seize opportunities and confront obstacles with flair. However, their efforts may occasionally fall short of their potential, leaving behind a trail of unfinished endeavors and unmet commitments. Successful Attitude number 3 individuals learn to channel focus and discipline, deriving immense satisfaction from achieving their objectives.
+
+
+In matters of the heart, individuals guided by Attitude number 3 may initially project a superficial and flighty persona, concealing a profound emotional depth. They recoil from negativity and approach significant life changes, including romantic entanglements, with caution. While they may engage in fleeting romantic encounters, they hesitate to commit unless met with patience and empathy.
+
+
+Often the soul of social gatherings, those embodying Attitude number 3 possess magnetic personalities that effortlessly attract others. Intelligent and astute, they wield their dynamic qualities to achieve feats and captivate their peers. Yet, they may grapple with Peter Pan syndrome, resisting the allure of full-fledged adulthood.
+
+
+Their mood exerts a considerable influence on their surroundings, as they radiate joy on brighter days but may emanate frustration during darker moments. Despite occasional fluctuations, they rebound swiftly from adversity, showcasing resilience and adaptability.
+
+
+Exceptional conversationalists, they offer invaluable insights and entertainment, inspiring and uplifting those in their orbit. With their blend of creativity and social finesse, individuals with Attitude number 3 unlock opportunities, serving as the lifeblood of social gatherings and enriching the lives of their companions with their effervescent spirit.
+
+
+Comedians epitomize innovation and creativity, effortlessly uncovering unconventional solutions. Their infectious optimism spreads like wildfire, yet beneath their cheerful exterior lies a hint of childlike whimsy that may lead them to evade responsibilities.
+
+
+Skimming the surface with their sharp wit and humor, those aligned with Attitude number 3 prefer to maintain a carefree demeanor, avoiding deep emotional entanglements. Nevertheless, when confronted with significant challenges, they astonish themselves and others with their unwavering perseverance, bravery, and resolve.
+
+
+Creativity is their hallmark, empowering them to seize opportunities and confront obstacles with flair. However, their efforts may occasionally fall short of their potential, leaving behind a trail of unfinished endeavors and unmet commitments. Successful Attitude number 3 individuals learn to channel focus and discipline, deriving immense satisfaction from achieving their objectives.
+
+
+In matters of the heart, individuals guided by Attitude number 3 may initially project a superficial and flighty persona, concealing a profound emotional depth. They recoil from negativity and approach significant life changes, including romantic entanglements, with caution. While they may engage in fleeting romantic encounters, they hesitate to commit unless met with patience and empathy.
+
+
+Often the soul of social gatherings, those embodying Attitude number 3 possess magnetic personalities that effortlessly attract others. Intelligent and astute, they wield their dynamic qualities to achieve feats and captivate their peers. Yet, they may grapple with Peter Pan syndrome, resisting the allure of full-fledged adulthood.
+
+
+Their mood exerts a considerable influence on their surroundings, as they radiate joy on brighter days but may emanate frustration during darker moments. Despite occasional fluctuations, they rebound swiftly from adversity, showcasing resilience and adaptability.
+
+
+Exceptional conversationalists, they offer invaluable insights and entertainment, inspiring and uplifting those in their orbit. With their blend of creativity and social finesse, individuals with Attitude number 3 unlock opportunities, serving as the lifeblood of social gatherings and enriching the lives of their companions with their effervescent spirit.
+
+
+However, they can be very emotional in life and sometimes can make decisions that are highly influenced by their emotions. Such decisions can often be wrong. As far as compatibility is concerned you can find them highly compatible with the sun numbers one five and seven. Celebrity Joker-comedian: Barack Obama, Kamala Harris, Mahatma Gandhi, 
+
+
+
+
+Attitude 4: Devil-advocate-list-keeper-Accountant
+
+
+“ I know the two sides of the coin “ 
+
+
+Natives born with the sun number 4 are said to be very hard-working personalities. They are always committed to their work which they take in hand. They are going to give them all and ensure that work is completed perfectly as per what they promised to complete.Reliable.
+Honest. Leadership skills. Loyal Management skills.
+
+
+They will never stop until they get the things done. They are going to work for hours to ensure that goal is achieved and they are not going to take some rest. Indeed you can find them as a workaholic personality. They always have an excellent desire to succeed in life. This desire is going to keep them self-motivated which results in spending fewer hours at their workplace.
+
+
+As far as their personal life is concerned they are going to be empathetic. They are going to make you very comfortable when you are around them. It will also give them respect and love. The best part is that they are going to any extent to provide love and respect to the people around them comfortably.
+
+
+They have a positive attitude about life and they are very optimistic by nature. Even during the challenging faces of life they will find the brighter side and will stay focused on it. Usually, they do not get upset from life and always offer their respect.
+
+
+They will never get depressed because of the negative things happening. You can find them dealing happily with every situation often. You will find them with complete stability and balance to deal with any condition or person.
+
+
+The list-keeper epitomizes meticulousness and diligence, tackling tasks with a methodical and effective approach. Steadfast and unwavering, they withstand significant challenges, yet harbor a reluctance toward change, preferring to maintain the status quo.
+
+
+Their relentless pursuit of excellence is commendable, investing substantial effort into their pursuits without yielding to procrastination. However, their quest for perfection may breed frustration, rendering them less jovial in work settings. Wrestling with the notion of leisure, they prioritize work over recreation.
+
+
+While their demanding demeanor may occasionally border on cruelty or lack of empathy, they hold themselves to the same exacting standards as they do others. Driven by success, they prioritize accomplishments, recognizing the necessity of risk-taking to realize their aspirations.
+
+
+In matters of the heart, individuals aligned with Attitude number 4 navigate the unpredictable landscape of romance cautiously, favoring stability over volatility. Yet, once committed, their loyalty knows no bounds, compensating for their subdued passion with steadfast devotion.
+
+
+Resolute and unwavering, they form the backbone of society, esteemed for their dependability and commitment. Often perceived as risk-averse, they derive joy from life's simpler pleasures and prioritize the welfare of their loved ones, occasionally misconceived as overbearing.
+
+
+Methodical and introspective, they analyze situations meticulously, arriving at informed decisions through thorough deliberation. Possessing exceptional organizational prowess, they exude honesty and loyalty, earning the trust and reliance of their peers despite occasional emotional detachment.
+
+
+Individuals with Attitude number 4 epitomize responsibility, integrity, and loyalty, embodying values that underscore their steadfast character. Though they may appear emotionally reserved, their unwavering intolerance for dishonesty underscores their principled approach to life.
+An interesting fact is that using constant efforts they are going to achieve stability and balance in every situation which is a plus point about them. When we talk about compatibility, you can find excellent pairing with the individual sun numbers 5, 6, and 8.  Celebrity List-keepers : Denzel Washington, AndrewTate, Kevin Hart, Beyonce
+
+
+
+
+Attitude 5: Spontaneous-player-Charisma
+
+
+“ I am Charisma “ 
+
+
+Individuals with the number five as their sun number are considered highly romantic and intimate persons. You can find them making other people feel very special and important. You can also consider them as free souls who are ready to help others at any time. People with attitude number 5 are seen by others as: Fearless, Progressive, Adventurous, Playful, in the center, Attention seeking.
+
+
+They will put their heart and soul into helping others and nurturing their mind and body. They prefer to explore the world and see the wild side of the world. It makes them feel very special when they can explore different sides of the world. They love to discover new things which are very attractive and inspiring to them. Further, they will also feel intimate with their loved ones when they show creativity and interest to them.
+
+
+Individuals with the sun number five are said to be highly imaginative. But this can make them think about the problems or other factors which are not even there in real life. Due to their over-thinking habits about the future, they can start thinking about the future and get worried about the imaginative problems that are not going to be there.
+
+
+No doubt that these people are ready to accept the changes in their lives. But you will find that they are going to take considerable time to think about every aspect of life. They are going to understand everything but need time for the transportation and alterations. Lively nature is very common and they can also evolve rapidly. A positive attitude about life is an excellent quality which you are always going to like about them.
+
+
+The spontaneous shines as the epitome of adaptability, thriving amidst change and unpredictability. Individuals embodying Attitude number 5 are fearless adventurers, drawn to novelty and excitement, embracing spontaneity over routine.
+
+
+Naturally, social beings revel in the company of others, eager to explore uncharted territories and new experiences. However, their aversion to stability can sometimes lead to challenges with discipline and addiction.
+
+
+Successful Attitude number 5s harness their boundless energy towards meaningful endeavors, eschewing short-lived goals for sustained dedication. In matters of the heart, they surprise with their depth of passion and commitment, transitioning from thrill-seekers to devoted partners when love ignites their souls.
+
+
+Loyalty is their hallmark, yet they abhor being taken for granted, cherishing their freedom above all else. Though not predisposed to long-term relationships, they infuse fun, loyalty, and sensuality into their commitments, savoring life's pleasures to the fullest.
+
+
+Bold and imaginative, individuals embodying Attitude number 5 epitomize risk-taking, unafraid of change and always seeking new horizons. Often captivating the spotlight, they revel in attention, thriving on flirtation and lively discourse.
+
+
+Their fearless and progressive nature propels them towards success, though their penchant for drama may occasionally land them in tumultuous waters. Yet, their zest for life and openness to new experiences bring fulfillment and excitement, making them magnetic forces in any social setting.
+
+
+Making the perfect balance in life is the next thing that you should never forget about them. They love to make the perfect balance whenever it is possible. Due to high imagination power, they can also become over thinking about life and it can make them lonely in most matters. They are full of attraction and it is highly liked by their social circle. Furthermore, their friends and relatives are going to like the helping attitude and positivity about them a lot. Compatible with Attitude number 5 include the 1, 3, 5, 6, and 7, drawn to their adventurous spirit and vibrant personality.
+
+
+Spontaneous-Travelers : Kanye West, Lucy Lui, Tyler Perry, 
+
+
+Attitude 6: Nurturer-Controller-In Charge- Fixer
+
+
+“ I am as domesticated as Mother dearest “ 
+
+
+Natives who have the number six as the sun number are said to be selfless individuals. You can find a highly apprehensive attitude and they are always ready to provide you a helping hand with anything. They are going to provide complete care, respect, and help to the people who are very close in their social network. Traits of those with attitude number 6 include: Analytical. Caring. Romantic. Organized.
+
+
+Most of the time, they will try to stay away from any kind of bad affairs. They will try their best to stay polite and generous with everybody who is around them. On the professional and they're also going to be very perfect.
+
+
+They have a positive attitude about life and are not going to give up easily. They always work in a way that motivates others to do something in their life. On the other hand, you can also find them without speaking in some matters. Some individuals who do not like them can also find them blabbermouth. Sometimes they can also behave tension-free and carefree.
+
+
+Individuals with the number 6 always prefer to enjoy privacy in their lives as much as possible. They are going to ensure that their privacy remains safe and for this, they can also eliminate the things around them.
+
+
+Before making any step in life they are going to perform all the calculations and make sure that they can achieve their goals. Most of the time you are going to find them completely concerned about their future and other plans. They will prefer to keep things a secret until they can achieve their goals.
+
+
+In numerology, Attitude number 6 embodies harmony and selflessness, placing the needs of others above their own. They serve as pillars of unity, fostering love and respect within their communities through their caregiving nature. While grounded and rational, they may sometimes exhibit self-righteousness and a narrow viewpoint, asserting authority without due merit.
+
+
+With a keen sense of duty, individuals with Attitude number 6 excel in structured environments, blending realism with idealism in their pursuits. Patient and persevering, they commit to long-term goals with unwavering determination.
+
+
+Despite their altruism, they may confine themselves to rigid belief systems, hindering their growth. Successful Attitude number 6s recognizes the importance of expanding their horizons and embracing new experiences beyond their comfort zones.
+
+
+In matters of love, the 6 Attitude number approaches relationships with sincerity and devotion, lavishing their partners with affection. However, they may grapple with promiscuity, driven by a desire to give themselves completely.
+
+
+While they may cause heartache, they also bring profound joy to their partners, their generosity being their greatest asset when balanced. Esteemed for their nurturing nature, individuals with Attitude number 6 cultivate strong social bonds, providing solace and support to their circle.
+
+
+Perceived as caregivers and homemakers, they prioritize family, beauty, and domesticity. However, their pursuit of perfection may lead to tendencies of control and discontent, necessitating a harmonious balance between their ambitious standards and self-care.
+
+
+Even people who are very close to them will not come to know about their plans. Staying private about their life is at the top of their list and they will also refer to having a small social circle.
+
+
+Nurturer-Controller: Malcolm X, Sean Puffy Combs. 
+
+
+Attitude 7: Questioner-Observer, Teacher, preacher, cross-examiner.
+
+
+Being ahead in spiritual life is the next thing that you will find very common about the individuals with sun number seven. The next virtue is having a complete understanding of the meaning of life. They are going to be very understanding. Those with an attitude number of 7 have these traits: Intuitive, Enigmatic, Observant, Nervous, Analytical, Worrisome.
+
+
+However, you will find them being introverted most of the time and they will hardly enjoy talking to others. To have the best conversation with them you can ask about their opinion about a particular thing in society. They are going to spend considerable time with like-minded individuals.
+
+
+They are going to enjoy your intellectual level when it matches with them. They will prefer to share their views with individuals who can understand them well.
+The behavior of individuals with the number seven is very nice and they are going to nurture individuals around them. There can be some particular things about which they are quite worried and anxious. You will also find them quite emotional in life and very sensitive about things.
+
+
+However, you can enjoy a great level of intuition from them. It is so because they always focus on the vibes and energy of others. Number 7 is already a missed call number there for natives with this particular number or blessed with many historical things in their lives. As a gift of the Universe, they can easily understand the vibrations and energy of a particular place, thing, or person.
+
+
+In the domain of philosophy and spiritual introspection, individuals with Attitude number 7 hold sway. Their innate curiosity drives them to probe beneath the surface, seeking profound insights into every facet of existence. Unfazed by changes, they navigate life with a sense of detachment that may inadvertently lead to a lack of recognition.
+
+
+The 7 embodies a curious duality, exhibiting both introverted and extroverted tendencies within the same persona. Dreamers at heart, they harbor lofty ideals, prioritizing intellectual and spiritual pursuits over worldly gains.
+
+
+Shallow interactions and superficiality repel those with Attitude number 7, who yearn for depth and authenticity in their relationships. Despite their reserved demeanor, many find solace in fields like psychology and psychiatry, leveraging their emotional intelligence to navigate complex human dynamics.
+
+
+Successful 7s embrace their emotions, understanding that not all challenges can be solved through logic alone. In matters of love, they often bloom later in life, prioritizing spiritual and intellectual connections over mere physical attraction. However, once love takes hold, they become devoted partners, prioritizing their significant other's happiness above all else.
+
+
+Driven by a thirst for knowledge, 7s are perpetual seekers, constantly expanding their understanding of the world. While perceived as enigmatic, their introspective nature often leads to profound insights that elude others.
+
+
+As a Questioner, you excel in strategy, data analysis, and intuitive decision-making. Your reserved demeanor may conceal a wealth of wisdom, although your occasional tendency towards passive-aggressiveness can create barriers in relationships. Nonetheless, your eagerness to share your insights and engage in profound exploration makes you an invaluable ally to those who appreciate the depths of your intellect.
+
+
+7 are deeply connected with Mother Nature. Therefore, when you keep them away from Mother Nature it will be very difficult for them to stay happy. They can easily get stressed in life. It means whenever you put some sort of responsibility on their shoulders they can feel overloaded. However, this factor can make their life full of challenges and they can also face hardship.
+
+
+Questioner-Teacher: Mother Teresa, Elon Musk, 
+ 
+Attitude 8: Business-Opportunist-Calculative-
+
+
+Individuals with the number eight as their sun number never hesitate to take risks whenever it comes to doing anything. They will love to be a part of your life whenever it is possible. They can love to enjoy every moment but at the same time, they can also act impulsively. Attitude number 8s come across as: Natural leaders, Big thinkers, Blunt, Confident, Focused.
+
+
+However, it is going to happen often when they think that the situation is hard to control. Mostly they are full of confidence and boldness and never hesitate to make decisions. In the needful time, it is very hard to find them because they will prefer to stay back. They are going to set their own rules to deal with the various situations. Along with this, you will find them following the protocol set by them.
+
+
+People with the number eight prefer to live in the present time and they will hardly be worried about the past. Though set in ways ( stubborn) they always have a positive perception about making decisions in life and prefer to gain complete control in their hands whenever possible.
+
+
+They will love to bend the rules of life and nothing is more important to them when it comes to professional life. Sometimes they can find it hard to express their hearty feelings to others. They will also love to spend considerable time with their favorite and lovable people. They will try their best to make them feel very special about their life.
+
+
+Opportunists exude authority, thriving on control in every facet of life. However, when faced with uncontrollable circumstances, their demeanor may shift, revealing signs of agitation and frustration. While their assertiveness may border on aggression, their keen discernment and forward-thinking mindset often distinguish them from others.
+
+
+Balancing practicality with detachment, 8s navigate the material realm effortlessly, unshackled by conventional attachments. This freedom empowers them to seize opportunities deemed too risky by others, although their optimism may occasionally lead to disappointment. Nonetheless, setbacks fail to deter their resilience for long, highlighting their unwavering determination.
+
+
+Paradoxically, 8s often grapple with authority, sometimes rebelling against societal norms. Yet, successful individuals prioritize clarity of judgment over impulsive reactions, sidestepping pitfalls that obstruct their progress.
+
+
+In matters of romance, 8s may project an aura of aloofness, their level-headedness tempering the flames of passion. However, with a confident and secure partner, enduring bonds can flourish, grounded in mutual respect and commitment. While not overtly demanding or generous, 8s exhibit unwavering loyalty and protectiveness towards their loved ones.
+
+
+As natural leaders, those with Attitude number 8 command respect and inspire transformative change. Proficient in financial matters, they leverage their influence to provide for their inner circle. Assertive and opinionated, they exude confidence and disdain mediocrity.
+
+
+Individuals embodying Attitude Number 8 project an aura of confidence and power. Blunt and outspoken, they prioritize financial security while aspiring to elevate themselves and those around them. Despite their assertiveness, they remain driven by a relentless pursuit of achievement and success.
+
+
+You can also find excellent leadership skills in them and they can always be great leaders in life. They always love the company of individuals who think outside of the box and prefer to create their own methods of gaining success. They will also focus on the solution rather than getting afraid of the problems.
+
+
+Business-Opportunist: Albert Einstein, Putin, Zelelensky. 
+
+
+Attitude 9: Sentimental-Humanitarian-Sacrificial- Service.
+
+
+Sun number nine is counted as one of the most powerful numbers because of many reasons. One can easily recognize these people because of their philosophical and spiritual behavior. You can find them quite helpful with an empathic nature for the people in their social circle. People with attitude number 9 are seen as:Compassionate.Leaders.Creative. Born teachers.
+Giving.
+
+
+They are also going to like the company of individuals who can inspire them a lot. They will prefer to get in touch with people who are like-minded and like to help others. They don't like to work under someone and prefer to stay free without getting orders from someone. In simple words, you can say that they are going to be very practical in life.
+
+
+Individuals with the sun number nine are going to be very practical in life and never hesitate to solve problems that are tough for others. In the same manner, they will prefer to work with their ideologies. They will love to walk on the path which they have created and chosen. We are also going to be suffering from a superiority complex sometimes. In the same way, they can also face the ego problem.
+
+
+The Sentimental  epitomize idealism, often gravitating towards careers in public service, politics, military, or law enforcement due to their global consciousness. While they may project an aura of aloofness and detachment, this demeanor serves as a protective shield against emotional entanglements, as they prefer a rational and objective approach.
+
+
+Meticulous planners, 9s thrive on well-thought-out strategies and adapt easily to changing circumstances, making them invaluable long-term planners and advisors. Despite excelling in leadership roles, they may encounter challenges with the intricacies of business finances and taxes.
+
+
+For a 9, fulfillment lies in endeavors larger than themselves, fueled by a deep-seated desire to leave a meaningful impact. However, this pursuit of significance can sometimes be perceived as arrogance or self-righteousness. Successful 9s learn to embrace diversity and accept others as they are, earning either admiration or disdain from those they encounter.
+
+
+Nines epitomize prudence, embodying a gentle yet socially aware disposition. Renowned for their humanitarian efforts, they are born volunteers who dedicate themselves to noble causes, often sacrificing personal comfort for the greater good. Their innate charisma and creative flair make them natural leaders and teachers, although they may struggle with receiving recognition for their endeavors due to their selfless nature.
+
+
+They love to handle their work with great perfection and prefer to stay dedicated. They don't get afraid of life and never back down. They prefer to plan everything and move forward. Communication is also an excellent virtue that they are going to use in their personal and professional life.
+
+
+When it comes to love, the 9 may initially appear distant, requiring initiative-taking efforts from potential partners to bridge the gap. Yet, once committed, they prove to be considerate, generous, and tolerant companions, valuing intimacy and allowing space for their partner's personal growth. Suitable partners for the 9 include those with Attitude numbers 1, 2, 3, 6, 7, and 8.
+
+
+Sentimental-Humanitarian : Shaquille O'neal, Michelle Obama, Colonel Sanders, Muhammad Ali. 
+
+
+Source: Decoz.com
